@@ -14,3 +14,6 @@
 * 수집 방법: Selenium
 * 기사 제목에 포함될 내용, 시작 날짜, 종료 날짜를 입력하면 자동으로 관련 데이터 수집 후 데이터프레임을 만들어 엑셀 파일로 저장
 * 구글 코랩 배포
+
+## 시스템 구조
+![시스템 구조](https://github.com/user-attachments/assets/b6bd3d25-e6c9-45ec-bc8a-4e02b0fd9662)
